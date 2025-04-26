@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "775961987042",
+    "project_id": "hothongquanlyphongtro",
+    "storage_bucket": "hothongquanlyphongtro.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775961987042:android:3233a7e021cd1bb5975bbb",
+        "android_client_info": {
+          "package_name": "com.example.hethongquanglyphongtro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxiaC3YxjMYGPyYeQcnYYTmP0z3WvxZxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
